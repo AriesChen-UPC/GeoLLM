@@ -1,7 +1,7 @@
 # GeoLLM
 **Large Language Model for Geology**
 
-Large language models are used to organize geology-related knowledge (geology, geophysics, geophysical logging, etc.). This version uses the ChatGLM-6B base model and fine-tunes it using P-tuning.
+Large language models are used to organize geology-related knowledge (geology, geophysics, geophysical logging, etc.). This version uses the [ChatGLM-6B](https:github.com/THUDM/ChatGLM-6B/tree/main) base model and fine-tunes it using P-tuning.
 
 ---
 
