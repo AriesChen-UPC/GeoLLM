@@ -15,8 +15,6 @@ Sedimentology, the study of sedimentary rocks and the processes by which they ar
 
 **Fine-tuning：** P-Tuning v2
 
-**GPU:** A100
-
 ---
 
 ### TODO
