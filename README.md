@@ -9,7 +9,7 @@ Large language models are used to organize geology-related knowledge (geology, g
 
 Sedimentology, the study of sedimentary rocks and the processes by which they are formed, includes and is related to a large number of phenomena. Sedimentology includes the five fundamental processes defined by the term sediaentation --weathering, erosion, transportation, deposition and diagenesis.
 
-**Datasets：** 《沉积岩石学（第四版）》 朱筱敏
+**Datasets：**《沉积岩石学（第四版）》 朱筱敏
 
 **Model：** ChatGLM-6B
 
