@@ -33,9 +33,9 @@ response
 沉积岩石学是研究沉积岩的物质成分、结构构造、岩石类型、沉积物沉积作用和沉积物质形成环境以及沉积岩分布规律的一门科学。
 ```
 
-**Error Analysis:** We meticulously refined the model by approximately 500 words from academic textbooks, subsequently applying P-Tuning v2 for optimization. Detailed control of parameters was not conducted for the time being. Given the scarcity of the training data and the fine-tuning parameters, the outcomes might exhibit some irregularities.
+**Error Analysis:** We meticulously refined the model by approximately 500 entries from academic textbooks, subsequently applying P-Tuning v2 for optimization. Detailed control of parameters was not conducted for the time being. Given the scarcity of the training data and the fine-tuning parameters, the outcomes might exhibit some irregularities.
 
-**Results Analysis:** It is evident that the fine-tuned model shows enhanced reliability when providing answers within specialized knowledge domains. Moving forward, we will persist in enriching our training data and optimizing our fine-tuning methodologies in order to yield superior results.
+**Results Analysis:** It is evident that the fine-tuned model shows enhanced reliability(more precise and concise) when providing answers within specialized knowledge domains. Moving forward, we will persist in enriching our training data and optimizing our fine-tuning methodologies in order to yield superior results.
 
 ---
 
